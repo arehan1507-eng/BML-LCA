@@ -1,6 +1,6 @@
 # BML-LCA
 LCA 2 
-# naive-bayes-adult-dataset
+# Naive-bayes-adult-dataset
 Name: Mohammed Rehan Mushahid Ansari
 PRN: 1032232128
 cse b TY
